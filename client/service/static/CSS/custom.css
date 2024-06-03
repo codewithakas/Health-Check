@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('diabetes-background.jpg');
+}
+
+.mainbox {
+    max-width: 600px;
+    padding: 20px;
+    margin: 30px auto;
+    background-color: rgba(100, 160, 110, 0.5);
+    border-radius: 10px;
+    box-shadow: -10px 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h1.highlight {
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    color: #40E0D0 
+}
+
+form {
+    margin-top: 10px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+p  {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+span {
+    color: #ff0000;
+}
+
+.message {
+    position: relative;
+}
+
+.message:hover::after {
+    content: "Important field";
+    position: absolute;
+    background-color: rgba(0,0,0,0.3);
+    color: rgba(255,255,255,1);
+    padding: 5px;
+    visibility: visible;
+    border-radius: 5px;
+}
+
+input[type="text"] {
+    width: 96.5%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.form-control {
+    width: 96.5%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+select {
+    width: 96.5%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input[type="number"] {
+    width: 96.5%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.btn{
+    background-color: #007BFF;
+    color: #fff;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
