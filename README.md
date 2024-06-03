@@ -120,8 +120,6 @@ This tool has been deployed using [`Streamlit`](https://streamlit.io/). Learn ab
 
 ## :handshake: Contact
 
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 Project Link: [https://github.com/codewithakas/Health-Check](https://github.com/codewithakas/Health-Check)
 <hr />
 <br />
