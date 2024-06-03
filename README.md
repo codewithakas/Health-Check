@@ -70,7 +70,7 @@ git clone https://github.com/codewithakas/Health-Check.git
 ```
 
 ```bash
-cd Health-Check
+cd client/app.py
 
 ```
 
