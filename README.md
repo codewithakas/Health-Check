@@ -21,7 +21,6 @@ The Diabetes Prediction App is a tool that predicts the probability of a patient
 - [Inputs](#construction-inputs)
 - [Outputs](#rocket-outputs)
 - [Deployment and Notebook](#triangular_flag_on_post-deployment-and-notebook)
-- [License](#balance_scale-license)
 - [Contact](#handshake-contact)
 
 
